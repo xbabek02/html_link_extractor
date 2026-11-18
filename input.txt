@@ -1,0 +1,4 @@
+https://web-scraping.dev/products
+https://example.com
+https://httpbin.org/status/200
+https://httpbin.org/status/404
